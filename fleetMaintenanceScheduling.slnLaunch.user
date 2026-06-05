@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\..\\..\\Downloads\\Vehicle Registration & Tracking 1\\Vehicle Registration & Tracking\\VehicleService\\VehicleService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\..\\Downloads\\Vehicle Registration & Tracking 1\\Vehicle Registration & Tracking\\OdometerReadingService\\OdometerReadingService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\..\\Downloads\\ServiceScheduleServices\\ServiceScheduleServices\\ServiceScheduleServices\\ServiceScheduleServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\..\\Downloads\\MasterSchedule 1\\MasterSchedule\\MasterService\\MasterService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ServiceHistoryServices\\ServiceHistoryServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ScheduleAssignmentService\\ScheduleAssignmentService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

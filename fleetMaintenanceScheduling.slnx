@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../../../Downloads/MasterSchedule 1/MasterSchedule/MasterService/MasterService.csproj" />
+  <Project Path="../../../Downloads/ServiceScheduleServices/ServiceScheduleServices/ServiceScheduleServices/ServiceScheduleServices.csproj" />
+  <Project Path="../../../Downloads/Vehicle Registration &amp; Tracking 1/Vehicle Registration &amp; Tracking/OdometerReadingService/OdometerReadingService.csproj" />
+  <Project Path="../../../Downloads/Vehicle Registration &amp; Tracking 1/Vehicle Registration &amp; Tracking/VehicleService/VehicleService.csproj" />
+  <Project Path="ScheduleAssignmentService/ScheduleAssignmentService.csproj" Id="924a5539-d5df-4b61-853e-310c47aa079b" />
+  <Project Path="ServiceHistoryServices/ServiceHistoryServices.csproj" Id="59b09dff-16bf-4fd8-ab35-25ec6a1783d1" />
+  <Project Path="TehicianService/TehicianService.csproj" Id="df8bca61-392d-4469-b0cf-9e89222f522b" />
+</Solution>
